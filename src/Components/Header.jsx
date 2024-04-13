@@ -4,4 +4,5 @@ export const Header = () =>{
         <p>je suis le header</p>
     )
 }
-// export default Header
+// export default Header sans  {}
+// export const avec {}

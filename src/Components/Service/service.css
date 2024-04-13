@@ -1,0 +1,8 @@
+.general{
+    margin: 0 auto;
+    display: flex;
+}
+.container{
+    padding: 30px;
+    margin: 30PX;
+}
