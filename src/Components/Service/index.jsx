@@ -7,6 +7,7 @@ export default function Service() {
   return (
     <React.Fragment>
     <div className='general'>
+      {/* image from https://yandex.com */}
         <img src={cat} alt="cat" />
         <div className='container'>
         <h2>Lorem ipsum</h2>
