@@ -7,6 +7,7 @@ import './App.css';
 // import Compteur from './Components/Compteur';
 // import { useState } from 'react';
 import EffectExo  from './Components/EffectExo';
+import UseEffect2 from './Components/UseEffect2';
 
 function App() {
   // const [color, setColor] = useState("red");
@@ -22,9 +23,9 @@ function App() {
       <Child note1={12} note2={18} />
       <ProductDetail product={product} />
       <Compteur nom={"Amina"} setColor={setColor} />
-      <h1 style={{ color }}> {color} </h1> */
+  <h1 style={{ color }}> {color} </h1> */}
       <EffectExo />
-      }
+      <UseEffect2/>
       </div>
   );
 }
